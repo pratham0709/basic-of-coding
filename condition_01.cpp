@@ -16,7 +16,7 @@ int main(){
 }
 
 
-// OUTPUT.........
+/* OUTPUT.........
 Enter The Value Of a :
 5
 a is Positive
@@ -24,3 +24,4 @@ a is Positive
 --------------------------------
 Process exited after 2.933 seconds with return value 0
 Press any key to continue . . .
+*/
